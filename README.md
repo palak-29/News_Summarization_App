@@ -1,6 +1,6 @@
 # 📰 AI-Powered News Summarizer + Sentiment Analyzer + Hindi TTS 🎙️
 
-![banner](https://img.shields.io/badge/Powered_by-Streamlit-FF4B4B?logo=streamlit) ![hugging-face](https://img.shields.io/badge/Hugging%20Face-Deployed-yellow?logo=huggingface) ![license](https://img.shields.io/badge/License-MIT-blue.svg)
+![banner](https://img.shields.io/badge/Powered_by-Streamlit-FF4B4B?logo=streamlit) ![hugging-face](https://img.shields.io/badge/Hugging%20Face-Deployed-yellow?logo=huggingface) 
 
 ---
 
