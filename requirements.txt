@@ -1,0 +1,11 @@
+﻿fastapi
+uvicorn
+streamlit
+requests
+beautifulsoup4
+lxml
+gtts
+transformers
+torch
+plotly
+keybert
