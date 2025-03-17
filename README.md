@@ -44,7 +44,7 @@ A complete AI solution to:
 
 | 📄 Articles with Sentiment | 📊 Sentiment Pie Chart | 🎧 Hindi TTS Audio |
 |----------------------------|-----------------------|--------------------|
-| ![articles](output/articles.png) | ![chart](output/piechart.png) | ![audio](output/audio.png) |
+| ![articles](articles.png) | ![chart](piechart.png) | ![audio](audio.png) |
 
 ---
 
