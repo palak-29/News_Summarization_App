@@ -40,14 +40,6 @@ A complete AI solution to:
 
 ---
 
-## 🖼️ Screenshots
-
-| 📄 Articles with Sentiment | 📊 Sentiment Pie Chart | 🎧 Hindi TTS Audio |
-|----------------------------|-----------------------|--------------------|
-| ![articles](articles.png) | ![chart](pie-chart.png) | ![audio](audio.png) |
-
----
-
 ## 🚀 How to Run Locally
 
 ### Clone the repo:
